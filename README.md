@@ -1,1 +1,1 @@
-# playing-cursor
+# Playing with the cursor
